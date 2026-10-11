@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      💻 Прошивки для стабилизаторов<br>и преобразователей
+      💻 Работа с микроконтроллерами RISC-V
     </td>
     <td align="center" width="50%">
       🔧 ESP32 · CH32V (RISC-V) · STM32
