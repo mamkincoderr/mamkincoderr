@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td align="center">
-      ⚡ Power electronics · DC-DC · драйверы
+      ⚡ Power electronics · DC-DC · Inverter
     </td>
     <td align="center">
       📊 FlowerGraph · Mixed Signal Analyzer
